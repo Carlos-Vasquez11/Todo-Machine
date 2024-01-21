@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Carlos-Vasquez11/Todo-Machine/static/css/main.847a5e0d.css",
+    "main.js": "/Carlos-Vasquez11/Todo-Machine/static/js/main.ffd8f193.js",
+    "index.html": "/Carlos-Vasquez11/Todo-Machine/index.html",
+    "static/media/delete.svg": "/Carlos-Vasquez11/Todo-Machine/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/Carlos-Vasquez11/Todo-Machine/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.847a5e0d.css.map": "/Carlos-Vasquez11/Todo-Machine/static/css/main.847a5e0d.css.map",
+    "main.ffd8f193.js.map": "/Carlos-Vasquez11/Todo-Machine/static/js/main.ffd8f193.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.847a5e0d.css",
+    "static/js/main.ffd8f193.js"
+  ]
+}
